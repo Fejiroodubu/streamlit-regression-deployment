@@ -1,1 +1,1 @@
-# streamlit-regression-deployment
+Data science regression project
